@@ -1,0 +1,15 @@
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\wfe\bin\Release\NovaNet.wfe.dll.config
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\wfe\bin\Release\NovaNet.wfe.dll
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\wfe\bin\Release\NovaNet.Utils.dll
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\wfe\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\wfe\obj\Release\NovaNet.wfe.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\wfe\bin\Release\NovaNet.wfe.dll.config
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\wfe\bin\Release\NovaNet.wfe.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\wfe\bin\Release\NovaNet.Utils.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\wfe\obj\Release\ResolveAssemblyReference.cache
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\wfe\obj\Release\NovaNet.wfe.dll
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\wfe\bin\Release\NovaNet.wfe.dll.config
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\wfe\bin\Release\NovaNet.wfe.dll
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\wfe\bin\Release\NovaNet.Utils.dll
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\wfe\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\wfe\obj\Release\NovaNet.wfe.dll

@@ -1,0 +1,14 @@
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Release\LItems.dll.config
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Release\LItems.dll
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Release\NovaNet.Utils.dll
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Release\NovaNet.wfe.dll
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Release\Interop.ClearImage.dll
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\obj\Release\LItems.dll
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Release\LItems.dll.config
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Release\LItems.dll
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Release\NovaNet.Utils.dll
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Release\NovaNet.wfe.dll
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Release\Interop.ClearImage.dll
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\obj\Release\LItems.dll

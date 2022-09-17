@@ -1,0 +1,304 @@
+D:\Sandhi Software\CAG\CAG\bin\Debug\CAG.exe.config
+D:\Sandhi Software\CAG\CAG\bin\Debug\CAG.exe
+D:\Sandhi Software\CAG\CAG\bin\Debug\CAG.pdb
+D:\Sandhi Software\CAG\CAG\bin\Debug\NovaNet.Utils.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\Interop.ClearImage.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\NovaNet.Utils.pdb
+D:\Sandhi Software\CAG\CAG\bin\Debug\NovaNet.Utils.dll.config
+D:\Sandhi Software\CAG\CAG\obj\Debug\CAG.Properties.Resources.resources
+D:\Sandhi Software\CAG\CAG\obj\Debug\CAG.csproj.GenerateResource.cache
+D:\Sandhi Software\CAG\CAG\obj\Debug\CAG.csproj.CoreCompileInputs.cache
+D:\Sandhi Software\CAG\CAG\obj\Debug\CAG.csproj.CopyComplete
+D:\Sandhi Software\CAG\CAG\obj\Debug\CAG.exe
+D:\Sandhi Software\CAG\CAG\obj\Debug\CAG.pdb
+D:\Sandhi Software\CAG\CAG\obj\Debug\CAG.csprojAssemblyReference.cache
+D:\Sandhi Software\CAG\CAG\bin\Debug\ImageHeaven.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\ImageHeaven.pdb
+D:\Sandhi Software\CAG\CAG\bin\Debug\ImageHeaven.dll.config
+D:\Sandhi Software\CAG\CAG\bin\Debug\NovaNet.wfe.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\NovaNet.wfe.pdb
+D:\Sandhi Software\CAG\CAG\bin\Debug\NovaNet.wfe.dll.config
+D:\Sandhi Software\CAG\CAG\bin\Debug\nControls.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\LItems.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\DgvFilterPopup.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\nControls.pdb
+D:\Sandhi Software\CAG\CAG\bin\Debug\LItems.pdb
+D:\Sandhi Software\CAG\CAG\bin\Debug\LItems.dll.config
+D:\Sandhi Software\CAG\CAG\bin\Debug\itextsharp.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\TwainUtils.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\TwainUtils.pdb
+D:\Sandhi Software\CAG\CAG\bin\Debug\TwainUtils.dll.config
+D:\Sandhi Software\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\Microsoft.mshtml.dll
+D:\Sandhi Software\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Sandhi Software\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+D:\Sandhi Software\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\CAG.exe.config
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\CAG.exe
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\CAG.pdb
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\ImageHeaven.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\NovaNet.Utils.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\LItems.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\TwainUtils.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\nControls.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\NovaNet.wfe.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\itextsharp.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\Interop.ClearImage.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\DgvFilterPopup.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\Microsoft.mshtml.dll
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\ImageHeaven.pdb
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\ImageHeaven.dll.config
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\NovaNet.Utils.pdb
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\NovaNet.Utils.dll.config
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\LItems.pdb
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\LItems.dll.config
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\TwainUtils.pdb
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\TwainUtils.dll.config
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\nControls.pdb
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\NovaNet.wfe.pdb
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\NovaNet.wfe.dll.config
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+D:\Sandhi Software New\sandhi\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Sandhi Software New\sandhi\CAG\CAG\obj\Debug\CAG.csprojAssemblyReference.cache
+D:\Sandhi Software New\sandhi\CAG\CAG\obj\Debug\CAG.Properties.Resources.resources
+D:\Sandhi Software New\sandhi\CAG\CAG\obj\Debug\CAG.csproj.GenerateResource.cache
+D:\Sandhi Software New\sandhi\CAG\CAG\obj\Debug\CAG.csproj.CoreCompileInputs.cache
+D:\Sandhi Software New\sandhi\CAG\CAG\obj\Debug\CAG.csproj.CopyComplete
+D:\Sandhi Software New\sandhi\CAG\CAG\obj\Debug\CAG.exe
+D:\Sandhi Software New\sandhi\CAG\CAG\obj\Debug\CAG.pdb
+F:\CAG\CAG\bin\Debug\CAG.exe.config
+F:\CAG\CAG\bin\Debug\CAG.exe
+F:\CAG\CAG\bin\Debug\CAG.pdb
+F:\CAG\CAG\bin\Debug\ImageHeaven.dll
+F:\CAG\CAG\bin\Debug\NovaNet.Utils.dll
+F:\CAG\CAG\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\CAG\CAG\bin\Debug\LItems.dll
+F:\CAG\CAG\bin\Debug\TwainUtils.dll
+F:\CAG\CAG\bin\Debug\nControls.dll
+F:\CAG\CAG\bin\Debug\NovaNet.wfe.dll
+F:\CAG\CAG\bin\Debug\itextsharp.dll
+F:\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.dll
+F:\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+F:\CAG\CAG\bin\Debug\Interop.ClearImage.dll
+F:\CAG\CAG\bin\Debug\DgvFilterPopup.dll
+F:\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.dll
+F:\CAG\CAG\bin\Debug\Microsoft.mshtml.dll
+F:\CAG\CAG\bin\Debug\ImageHeaven.pdb
+F:\CAG\CAG\bin\Debug\ImageHeaven.dll.config
+F:\CAG\CAG\bin\Debug\NovaNet.Utils.pdb
+F:\CAG\CAG\bin\Debug\NovaNet.Utils.dll.config
+F:\CAG\CAG\bin\Debug\LItems.pdb
+F:\CAG\CAG\bin\Debug\LItems.dll.config
+F:\CAG\CAG\bin\Debug\TwainUtils.pdb
+F:\CAG\CAG\bin\Debug\TwainUtils.dll.config
+F:\CAG\CAG\bin\Debug\nControls.pdb
+F:\CAG\CAG\bin\Debug\NovaNet.wfe.pdb
+F:\CAG\CAG\bin\Debug\NovaNet.wfe.dll.config
+F:\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.xml
+F:\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+F:\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.xml
+F:\CAG\CAG\obj\Debug\CAG.csprojAssemblyReference.cache
+F:\CAG\CAG\obj\Debug\CAG.Properties.Resources.resources
+F:\CAG\CAG\obj\Debug\CAG.csproj.GenerateResource.cache
+F:\CAG\CAG\obj\Debug\CAG.csproj.CoreCompileInputs.cache
+F:\CAG\CAG\obj\Debug\CAG.csproj.CopyComplete
+F:\CAG\CAG\obj\Debug\CAG.exe
+F:\CAG\CAG\obj\Debug\CAG.pdb
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\CAG.exe.config
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\CAG.exe
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\CAG.pdb
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\ImageHeaven.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\NovaNet.Utils.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\LItems.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\TwainUtils.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\nControls.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\NovaNet.wfe.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\itextsharp.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\Interop.ClearImage.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\DgvFilterPopup.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\Microsoft.mshtml.dll
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\ImageHeaven.pdb
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\ImageHeaven.dll.config
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\NovaNet.Utils.pdb
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\NovaNet.Utils.dll.config
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\LItems.pdb
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\LItems.dll.config
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\TwainUtils.pdb
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\TwainUtils.dll.config
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\nControls.pdb
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\NovaNet.wfe.pdb
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\NovaNet.wfe.dll.config
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+D:\.NET\B' Zer\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.xml
+D:\.NET\B' Zer\CAG\CAG\obj\Debug\CAG.csprojAssemblyReference.cache
+D:\.NET\B' Zer\CAG\CAG\obj\Debug\CAG.Properties.Resources.resources
+D:\.NET\B' Zer\CAG\CAG\obj\Debug\CAG.csproj.GenerateResource.cache
+D:\.NET\B' Zer\CAG\CAG\obj\Debug\CAG.csproj.CoreCompileInputs.cache
+D:\.NET\B' Zer\CAG\CAG\obj\Debug\CAG.csproj.CopyComplete
+D:\.NET\B' Zer\CAG\CAG\obj\Debug\CAG.exe
+D:\.NET\B' Zer\CAG\CAG\obj\Debug\CAG.pdb
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\CAG.exe.config
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\CAG.exe
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\CAG.pdb
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\ImageHeaven.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.Utils.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\LItems.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\TwainUtils.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\nControls.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.wfe.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\itextsharp.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\Interop.ClearImage.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\DgvFilterPopup.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\Microsoft.mshtml.dll
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\ImageHeaven.pdb
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\ImageHeaven.dll.config
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.Utils.pdb
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.Utils.dll.config
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\LItems.pdb
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\LItems.dll.config
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\TwainUtils.pdb
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\TwainUtils.dll.config
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\nControls.pdb
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.wfe.pdb
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.wfe.dll.config
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+D:\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.xml
+D:\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.csprojAssemblyReference.cache
+D:\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.Properties.Resources.resources
+D:\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.csproj.GenerateResource.cache
+D:\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.csproj.CoreCompileInputs.cache
+D:\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.csproj.CopyComplete
+D:\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.exe
+D:\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.pdb
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\CAG.exe.config
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\CAG.exe
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\CAG.pdb
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\ImageHeaven.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.Utils.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\LItems.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\TwainUtils.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\nControls.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.wfe.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\itextsharp.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\Interop.ClearImage.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\DgvFilterPopup.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\Microsoft.mshtml.dll
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\ImageHeaven.pdb
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\ImageHeaven.dll.config
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.Utils.pdb
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.Utils.dll.config
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\LItems.pdb
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\LItems.dll.config
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\TwainUtils.pdb
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\TwainUtils.dll.config
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\nControls.pdb
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.wfe.pdb
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\NovaNet.wfe.dll.config
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+D:\.NET\GitRepository\CAG\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.xml
+D:\.NET\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.csprojAssemblyReference.cache
+D:\.NET\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.Properties.Resources.resources
+D:\.NET\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.csproj.GenerateResource.cache
+D:\.NET\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.csproj.CoreCompileInputs.cache
+D:\.NET\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.csproj.CopyComplete
+D:\.NET\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.exe
+D:\.NET\GitRepository\CAG\CAG\CAG\obj\Debug\CAG.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\CAG.exe.config
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\CAG.exe
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\CAG.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\ImageHeaven.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\NovaNet.Utils.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\LItems.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\TwainUtils.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\nControls.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\NovaNet.wfe.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\itextsharp.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\Interop.ClearImage.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\DgvFilterPopup.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\Microsoft.mshtml.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\ImageHeaven.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\ImageHeaven.dll.config
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\NovaNet.Utils.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\NovaNet.Utils.dll.config
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\LItems.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\LItems.dll.config
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\TwainUtils.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\TwainUtils.dll.config
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\nControls.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\NovaNet.wfe.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\NovaNet.wfe.dll.config
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\obj\Debug\CAG.csproj.AssemblyReference.cache
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\obj\Debug\CAG.Properties.Resources.resources
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\obj\Debug\CAG.csproj.GenerateResource.cache
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\obj\Debug\CAG.csproj.CoreCompileInputs.cache
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\obj\Debug\CAG.csproj.CopyComplete
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\obj\Debug\CAG.exe
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\CAG\obj\Debug\CAG.pdb
+D:\GitRepo\CAG\CAG\bin\Debug\CAG.exe.config
+D:\GitRepo\CAG\CAG\bin\Debug\CAG.exe
+D:\GitRepo\CAG\CAG\bin\Debug\CAG.pdb
+D:\GitRepo\CAG\CAG\bin\Debug\ImageHeaven.dll
+D:\GitRepo\CAG\CAG\bin\Debug\NovaNet.Utils.dll
+D:\GitRepo\CAG\CAG\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\GitRepo\CAG\CAG\bin\Debug\LItems.dll
+D:\GitRepo\CAG\CAG\bin\Debug\TwainUtils.dll
+D:\GitRepo\CAG\CAG\bin\Debug\nControls.dll
+D:\GitRepo\CAG\CAG\bin\Debug\NovaNet.wfe.dll
+D:\GitRepo\CAG\CAG\bin\Debug\itextsharp.dll
+D:\GitRepo\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\GitRepo\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.dll
+D:\GitRepo\CAG\CAG\bin\Debug\Interop.ClearImage.dll
+D:\GitRepo\CAG\CAG\bin\Debug\DgvFilterPopup.dll
+D:\GitRepo\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.dll
+D:\GitRepo\CAG\CAG\bin\Debug\Microsoft.mshtml.dll
+D:\GitRepo\CAG\CAG\bin\Debug\ImageHeaven.pdb
+D:\GitRepo\CAG\CAG\bin\Debug\ImageHeaven.dll.config
+D:\GitRepo\CAG\CAG\bin\Debug\NovaNet.Utils.pdb
+D:\GitRepo\CAG\CAG\bin\Debug\NovaNet.Utils.dll.config
+D:\GitRepo\CAG\CAG\bin\Debug\LItems.pdb
+D:\GitRepo\CAG\CAG\bin\Debug\LItems.dll.config
+D:\GitRepo\CAG\CAG\bin\Debug\TwainUtils.pdb
+D:\GitRepo\CAG\CAG\bin\Debug\TwainUtils.dll.config
+D:\GitRepo\CAG\CAG\bin\Debug\nControls.pdb
+D:\GitRepo\CAG\CAG\bin\Debug\NovaNet.wfe.pdb
+D:\GitRepo\CAG\CAG\bin\Debug\NovaNet.wfe.dll.config
+D:\GitRepo\CAG\CAG\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\GitRepo\CAG\CAG\bin\Debug\Syncfusion.OCRProcessor.Base.xml
+D:\GitRepo\CAG\CAG\bin\Debug\Syncfusion.Compression.Base.xml
+D:\GitRepo\CAG\CAG\obj\Debug\CAG.csprojAssemblyReference.cache
+D:\GitRepo\CAG\CAG\obj\Debug\CAG.Properties.Resources.resources
+D:\GitRepo\CAG\CAG\obj\Debug\CAG.csproj.GenerateResource.cache
+D:\GitRepo\CAG\CAG\obj\Debug\CAG.csproj.CoreCompileInputs.cache
+D:\GitRepo\CAG\CAG\obj\Debug\CAG.csproj.CopyComplete
+D:\GitRepo\CAG\CAG\obj\Debug\CAG.exe
+D:\GitRepo\CAG\CAG\obj\Debug\CAG.pdb

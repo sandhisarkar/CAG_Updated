@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.0.0.3437
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wSelect", "wSelect\wSelect.csproj", "{464A1FB1-88E1-478E-892D-087AA908B297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWControl", "..\TestWControl\TestWControl.csproj", "{793DF016-4CA5-41C1-B00E-67FA92D43EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464A1FB1-88E1-478E-892D-087AA908B297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464A1FB1-88E1-478E-892D-087AA908B297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464A1FB1-88E1-478E-892D-087AA908B297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464A1FB1-88E1-478E-892D-087AA908B297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793DF016-4CA5-41C1-B00E-67FA92D43EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793DF016-4CA5-41C1-B00E-67FA92D43EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793DF016-4CA5-41C1-B00E-67FA92D43EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{793DF016-4CA5-41C1-B00E-67FA92D43EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

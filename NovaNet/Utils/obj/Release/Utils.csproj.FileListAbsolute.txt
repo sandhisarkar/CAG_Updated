@@ -1,0 +1,42 @@
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\bin\Release\NovaNet.Utils.dll.config
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\bin\Release\NovaNet.Utils.dll
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\bin\Release\Interop.ClearImage.dll
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\obj\Release\Interop.ClearImage.dll
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\obj\Release\Utils.csproj.ResolveComReference.cache
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\obj\Release\NovaNet.Utils.AddNewUser.resources
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\obj\Release\NovaNet.Utils.frmConnection.resources
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\obj\Release\ImageHeaven.frmLoggedUser.resources
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\obj\Release\NovaNet.Utils.GetChallenge.resources
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\obj\Release\NovaNet.Properties.Resources.resources
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\obj\Release\NovaNet.Utils.PwdChange.resources
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\obj\Release\Utils.csproj.GenerateResource.Cache
+D:\subhajit\Projects\IGR\1.7.0\NovaNet\Utils\obj\Release\NovaNet.Utils.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\bin\Release\NovaNet.Utils.dll.config
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\bin\Release\NovaNet.Utils.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\bin\Release\Interop.ClearImage.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\obj\Release\ResolveAssemblyReference.cache
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\obj\Release\Interop.ClearImage.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\obj\Release\Utils.csproj.ResolveComReference.cache
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\obj\Release\NovaNet.Utils.AddNewUser.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\obj\Release\NovaNet.Utils.frmConnection.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\obj\Release\ImageHeaven.frmLoggedUser.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\obj\Release\NovaNet.Utils.GetChallenge.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\obj\Release\NovaNet.Properties.Resources.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\obj\Release\NovaNet.Utils.PwdChange.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\obj\Release\Utils.csproj.GenerateResource.Cache
+G:\Copy of 1.7.0_modified on 19-06 new output\NovaNet\Utils\obj\Release\NovaNet.Utils.dll
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\bin\Release\NovaNet.Utils.dll.config
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\bin\Release\NovaNet.Utils.dll
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\bin\Release\Interop.ClearImage.dll
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\obj\Release\Interop.ClearImage.dll
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\obj\Release\Utils.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\obj\Release\NovaNet.Utils.AddNewUser.resources
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\obj\Release\NovaNet.Utils.frmConnection.resources
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\obj\Release\ImageHeaven.frmLoggedUser.resources
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\obj\Release\NovaNet.Utils.GetChallenge.resources
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\obj\Release\NovaNet.Properties.Resources.resources
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\obj\Release\NovaNet.Utils.PwdChange.resources
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\obj\Release\Utils.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\1.8.0 report\NovaNet\Utils\obj\Release\NovaNet.Utils.dll

@@ -1,0 +1,655 @@
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Debug\LItems.dll.config
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Debug\LItems.dll
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Debug\LItems.pdb
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\obj\Debug\LItems.dll
+D:\subhajit\Projects\IGR\1.7.0\M31\LItems\obj\Debug\LItems.pdb
+D:\1.7.0\M31\LItems\bin\Debug\LItems.dll.config
+D:\1.7.0\M31\LItems\bin\Debug\LItems.dll
+D:\1.7.0\M31\LItems\bin\Debug\LItems.pdb
+D:\1.7.0\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\1.7.0\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\1.7.0\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\1.7.0\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\1.7.0\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\1.7.0\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\1.7.0\M31\LItems\obj\Debug\LItems.dll
+D:\1.7.0\M31\LItems\obj\Debug\LItems.pdb
+D:\1.7.0_modified on 09-06 as per nic\M31\LItems\bin\Debug\LItems.dll.config
+D:\1.7.0_modified on 09-06 as per nic\M31\LItems\bin\Debug\LItems.dll
+D:\1.7.0_modified on 09-06 as per nic\M31\LItems\bin\Debug\LItems.pdb
+D:\1.7.0_modified on 09-06 as per nic\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\1.7.0_modified on 09-06 as per nic\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\1.7.0_modified on 09-06 as per nic\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\1.7.0_modified on 09-06 as per nic\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\1.7.0_modified on 09-06 as per nic\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\1.7.0_modified on 09-06 as per nic\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\1.7.0_modified on 09-06 as per nic\M31\LItems\obj\Debug\LItems.dll
+D:\1.7.0_modified on 09-06 as per nic\M31\LItems\obj\Debug\LItems.pdb
+D:\1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll.config
+D:\1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll
+D:\1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.pdb
+D:\1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.dll
+D:\1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.pdb
+G:\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll.config
+G:\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.pdb
+G:\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\Interop.ClearImage.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+G:\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+G:\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+G:\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.pdb
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll.config
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.pdb
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.dll
+C:\Documents and Settings\Sumits\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.pdb
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll.config
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.pdb
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.dll
+C:\Documents and Settings\User\Desktop\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.pdb
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll.config
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.pdb
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.dll
+C:\Documents and Settings\User\Desktop\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.pdb
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll.config
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.pdb
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.dll
+D:\working IGR\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.pdb
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll.config
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.pdb
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.dll
+D:\Again new UAT format by DNG\27-08-14\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.pdb
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll.config
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.pdb
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.dll
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.dll
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\Interop.ClearImage.dll
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.dll
+I:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.pdb
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll.config
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.dll
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\LItems.pdb
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.dll
+D:\bazer\Copy of 1.7.0_modified on 19-06 new output\M31\LItems\obj\Debug\LItems.pdb
+H:\works\bzer_ra_ng_1.8\1.8.0\M31\LItems\bin\Debug\LItems.dll.config
+H:\works\bzer_ra_ng_1.8\1.8.0\M31\LItems\bin\Debug\LItems.dll
+H:\works\bzer_ra_ng_1.8\1.8.0\M31\LItems\bin\Debug\LItems.pdb
+H:\works\bzer_ra_ng_1.8\1.8.0\M31\LItems\bin\Debug\NovaNet.Utils.dll
+H:\works\bzer_ra_ng_1.8\1.8.0\M31\LItems\bin\Debug\NovaNet.wfe.dll
+H:\works\bzer_ra_ng_1.8\1.8.0\M31\LItems\bin\Debug\Interop.ClearImage.dll
+H:\works\bzer_ra_ng_1.8\1.8.0\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+H:\works\bzer_ra_ng_1.8\1.8.0\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+H:\works\bzer_ra_ng_1.8\1.8.0\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+H:\works\bzer_ra_ng_1.8\1.8.0\M31\LItems\obj\Debug\LItems.dll
+H:\works\bzer_ra_ng_1.8\1.8.0\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\USER\Desktop\1.8.0\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\USER\Desktop\1.8.0\M31\LItems\bin\Debug\LItems.dll
+C:\Users\USER\Desktop\1.8.0\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\USER\Desktop\1.8.0\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\USER\Desktop\1.8.0\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\1.8.0\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\USER\Desktop\1.8.0\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\1.8.0\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\1.8.0\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0\M31\LItems\obj\Debug\LItems.dll
+C:\Users\USER\Desktop\1.8.0\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Debug\LItems.dll
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\obj\Debug\LItems.dll
+C:\Users\USER\Desktop\1.8.0 report\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\USER\Desktop\1.8.0 report - Copy\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\USER\Desktop\1.8.0 report - Copy\M31\LItems\bin\Debug\LItems.dll
+C:\Users\USER\Desktop\1.8.0 report - Copy\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\USER\Desktop\1.8.0 report - Copy\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\USER\Desktop\1.8.0 report - Copy\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\USER\Desktop\1.8.0 report - Copy\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\USER\Desktop\1.8.0 report - Copy\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\USER\Desktop\1.8.0 report - Copy\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\USER\Desktop\1.8.0 report - Copy\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0 report - Copy\M31\LItems\obj\Debug\LItems.dll
+C:\Users\USER\Desktop\1.8.0 report - Copy\M31\LItems\obj\Debug\LItems.pdb
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Documents and Settings\sumits\Desktop\1.8.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Documents and Settings\sumits\Desktop\2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+G:\FdriveBackup\Works\2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+G:\FdriveBackup\Works\2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+G:\FdriveBackup\Works\2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+G:\FdriveBackup\Works\2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+G:\FdriveBackup\Works\2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+G:\FdriveBackup\Works\2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+G:\FdriveBackup\Works\2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+G:\FdriveBackup\Works\2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+G:\FdriveBackup\Works\2.0.0 report_Active\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+G:\FdriveBackup\Works\2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+G:\FdriveBackup\Works\2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+G:\FdriveBackup\Works\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+D:\SW Repository\Development\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+D:\SW Repository\Development\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+D:\SW Repository\Development\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+D:\SW Repository\Development\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\SW Repository\Development\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\SW Repository\Development\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\SW Repository\Development\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\SW Repository\Development\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\SW Repository\Development\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\SW Repository\Development\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+D:\SW Repository\Development\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+I:\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+D:\URGENT WORK\IGR_ACTIVE_RA\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+D:\URGENT WORK\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+D:\URGENT WORK\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Users\ArpanP\Desktop\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\ArpanP\Desktop\Final Projects\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\ArpanP\Desktop\Final Projects\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Users\ArpanP\Desktop\Final Projects\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\ArpanP\Desktop\Final Projects\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\ArpanP\Desktop\Final Projects\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\ArpanP\Desktop\Final Projects\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\ArpanP\Desktop\Final Projects\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\ArpanP\Desktop\Final Projects\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\ArpanP\Desktop\Final Projects\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\ArpanP\Desktop\Final Projects\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Users\ArpanP\Desktop\Final Projects\Latest scan igr\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+D:\Handover\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\IGR-ENTRYfromIMAGE\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+D:\Sandhi\IGR-ENTRYfromIMAGEupdated\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2  source Code - Copy\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2 New Version source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2 New Version source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2 New Version source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2 New Version source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2 New Version source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2 New Version source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2 New Version source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2 New Version source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2 New Version source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2 New Version source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.1.2 New Version source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Users\NEVAEH\Desktop\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+E:\Sandhi\Laptop Backup\Bzer- V5.2.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.0 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Users\SubhasishG\Desktop\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll.config
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\LItems.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.dll
+C:\Users\SubhasishG\Desktop\Sandhi Software\Bzer- V5.4.1 source Code\IGR_ACTIVE_RA_nic\Canon 2.0.0 report_Active\M31\LItems\obj\Debug\LItems.pdb
+C:\Users\SandhiS\Desktop\Record Management\LItems\bin\Debug\LItems.dll.config
+C:\Users\SandhiS\Desktop\Record Management\LItems\bin\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\Record Management\LItems\bin\Debug\LItems.pdb
+C:\Users\SandhiS\Desktop\Record Management\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\SandhiS\Desktop\Record Management\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\SandhiS\Desktop\Record Management\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\SandhiS\Desktop\Record Management\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SandhiS\Desktop\Record Management\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SandhiS\Desktop\Record Management\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\SandhiS\Desktop\Record Management\LItems\obj\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\Record Management\LItems\obj\Debug\LItems.pdb
+C:\Users\SandhiS\Desktop\CESC\LItems\bin\Debug\LItems.dll.config
+C:\Users\SandhiS\Desktop\CESC\LItems\bin\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\CESC\LItems\bin\Debug\LItems.pdb
+C:\Users\SandhiS\Desktop\CESC\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\SandhiS\Desktop\CESC\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\SandhiS\Desktop\CESC\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\SandhiS\Desktop\CESC\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SandhiS\Desktop\CESC\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SandhiS\Desktop\CESC\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\SandhiS\Desktop\CESC\LItems\obj\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\CESC\LItems\obj\Debug\LItems.pdb
+C:\Users\SandhiS\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll.config
+C:\Users\SandhiS\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.pdb
+C:\Users\SandhiS\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\SandhiS\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\SandhiS\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\SandhiS\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SandhiS\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SandhiS\Desktop\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\SandhiS\Desktop\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.pdb
+C:\Users\SubhasishG\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll.config
+C:\Users\SubhasishG\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll
+C:\Users\SubhasishG\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.pdb
+C:\Users\SubhasishG\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\SubhasishG\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\SubhasishG\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\Interop.ClearImage.dll
+C:\Users\SubhasishG\Desktop\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SubhasishG\Desktop\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\SubhasishG\Desktop\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.dll
+C:\Users\SubhasishG\Desktop\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll.config
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.Utils.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\DiptiN\Desktop\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll.config
+C:\Users\DiptiN\Desktop\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll
+C:\Users\DiptiN\Desktop\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.pdb
+C:\Users\DiptiN\Desktop\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\DiptiN\Desktop\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\DiptiN\Desktop\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\DiptiN\Desktop\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.dll
+C:\Users\DiptiN\Desktop\CSEC DSpace Batch Upload Tool\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll.config
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.Utils.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.dll
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+C:\Users\SandhiS\Desktop\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll.config
+C:\Users\SandhiS\Desktop\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\LItems.pdb
+C:\Users\SandhiS\Desktop\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\SandhiS\Desktop\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\SandhiS\Desktop\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SandhiS\Desktop\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\CSEC DSpace Batch Upload Tool Updated\DSpace Entry,Import(Tag),Export\LItems\obj\Debug\LItems.pdb
+C:\Users\SandhiS\Desktop\CHC\LItems\bin\Debug\LItems.dll.config
+C:\Users\SandhiS\Desktop\CHC\LItems\bin\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\CHC\LItems\bin\Debug\LItems.pdb
+C:\Users\SandhiS\Desktop\CHC\LItems\bin\Debug\NovaNet.Utils.dll
+C:\Users\SandhiS\Desktop\CHC\LItems\bin\Debug\NovaNet.wfe.dll
+C:\Users\SandhiS\Desktop\CHC\LItems\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SandhiS\Desktop\CHC\LItems\obj\Debug\LItems.dll
+C:\Users\SandhiS\Desktop\CHC\LItems\obj\Debug\LItems.pdb
+D:\CHC\LItems\bin\Debug\LItems.dll.config
+D:\CHC\LItems\bin\Debug\LItems.dll
+D:\CHC\LItems\bin\Debug\LItems.pdb
+D:\CHC\LItems\bin\Debug\NovaNet.Utils.dll
+D:\CHC\LItems\bin\Debug\NovaNet.wfe.dll
+D:\CHC\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\CHC\LItems\obj\Debug\LItems.dll
+D:\CHC\LItems\obj\Debug\LItems.pdb
+D:\CHC\LItems\obj\Debug\LItems.csprojResolveAssemblyReference.cache
+D:\CHC Backup Code\CHC\LItems\bin\Debug\LItems.dll.config
+D:\CHC Backup Code\CHC\LItems\bin\Debug\LItems.dll
+D:\CHC Backup Code\CHC\LItems\bin\Debug\LItems.pdb
+D:\CHC Backup Code\CHC\LItems\bin\Debug\NovaNet.Utils.dll
+D:\CHC Backup Code\CHC\LItems\bin\Debug\NovaNet.wfe.dll
+D:\CHC Backup Code\CHC\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\CHC Backup Code\CHC\LItems\obj\Debug\LItems.dll
+D:\CHC Backup Code\CHC\LItems\obj\Debug\LItems.pdb
+D:\CHC Backup Code\CHC\LItems\bin\Debug\NovaNet.wfe.dll.config
+D:\CHC Backup Code\CHC\LItems\obj\Debug\LItems.csprojAssemblyReference.cache
+D:\CHC Backup Code\CHC\LItems\obj\Debug\LItems.csproj.CoreCompileInputs.cache
+D:\CHC Backup Code\CHC\LItems\obj\Debug\LItems.csproj.CopyComplete
+D:\CHC Backup Code - Copy\CHC\LItems\obj\Debug\LItems.csprojAssemblyReference.cache
+D:\CHC Backup Code - Copy\CHC\LItems\obj\Debug\LItems.csproj.CoreCompileInputs.cache
+D:\CHC Backup Code - Copy\CHC\LItems\bin\Debug\LItems.dll.config
+D:\CHC Backup Code - Copy\CHC\LItems\bin\Debug\LItems.dll
+D:\CHC Backup Code - Copy\CHC\LItems\bin\Debug\LItems.pdb
+D:\CHC Backup Code - Copy\CHC\LItems\bin\Debug\NovaNet.Utils.dll
+D:\CHC Backup Code - Copy\CHC\LItems\bin\Debug\NovaNet.wfe.dll
+D:\CHC Backup Code - Copy\CHC\LItems\bin\Debug\Interop.ClearImage.dll
+D:\CHC Backup Code - Copy\CHC\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\CHC Backup Code - Copy\CHC\LItems\bin\Debug\NovaNet.Utils.dll.config
+D:\CHC Backup Code - Copy\CHC\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\CHC Backup Code - Copy\CHC\LItems\bin\Debug\NovaNet.wfe.dll.config
+D:\CHC Backup Code - Copy\CHC\LItems\obj\Debug\LItems.csproj.CopyComplete
+D:\CHC Backup Code - Copy\CHC\LItems\obj\Debug\LItems.dll
+D:\CHC Backup Code - Copy\CHC\LItems\obj\Debug\LItems.pdb
+D:\Sandhi Software\CAG\LItems\bin\Debug\LItems.dll.config
+D:\Sandhi Software\CAG\LItems\bin\Debug\LItems.dll
+D:\Sandhi Software\CAG\LItems\bin\Debug\LItems.pdb
+D:\Sandhi Software\CAG\LItems\bin\Debug\NovaNet.Utils.dll
+D:\Sandhi Software\CAG\LItems\bin\Debug\NovaNet.wfe.dll
+D:\Sandhi Software\CAG\LItems\bin\Debug\Interop.ClearImage.dll
+D:\Sandhi Software\CAG\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\Sandhi Software\CAG\LItems\bin\Debug\NovaNet.Utils.dll.config
+D:\Sandhi Software\CAG\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\Sandhi Software\CAG\LItems\bin\Debug\NovaNet.wfe.dll.config
+D:\Sandhi Software\CAG\LItems\obj\Debug\LItems.csprojAssemblyReference.cache
+D:\Sandhi Software\CAG\LItems\obj\Debug\LItems.csproj.CoreCompileInputs.cache
+D:\Sandhi Software\CAG\LItems\obj\Debug\LItems.csproj.CopyComplete
+D:\Sandhi Software\CAG\LItems\obj\Debug\LItems.dll
+D:\Sandhi Software\CAG\LItems\obj\Debug\LItems.pdb
+D:\Sandhi Software New\sandhi\CAG\LItems\bin\Debug\LItems.dll.config
+D:\Sandhi Software New\sandhi\CAG\LItems\bin\Debug\LItems.dll
+D:\Sandhi Software New\sandhi\CAG\LItems\bin\Debug\LItems.pdb
+D:\Sandhi Software New\sandhi\CAG\LItems\bin\Debug\NovaNet.Utils.dll
+D:\Sandhi Software New\sandhi\CAG\LItems\bin\Debug\NovaNet.wfe.dll
+D:\Sandhi Software New\sandhi\CAG\LItems\bin\Debug\Interop.ClearImage.dll
+D:\Sandhi Software New\sandhi\CAG\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\Sandhi Software New\sandhi\CAG\LItems\bin\Debug\NovaNet.Utils.dll.config
+D:\Sandhi Software New\sandhi\CAG\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\Sandhi Software New\sandhi\CAG\LItems\bin\Debug\NovaNet.wfe.dll.config
+D:\Sandhi Software New\sandhi\CAG\LItems\obj\Debug\LItems.csprojAssemblyReference.cache
+D:\Sandhi Software New\sandhi\CAG\LItems\obj\Debug\LItems.csproj.CoreCompileInputs.cache
+D:\Sandhi Software New\sandhi\CAG\LItems\obj\Debug\LItems.csproj.CopyComplete
+D:\Sandhi Software New\sandhi\CAG\LItems\obj\Debug\LItems.dll
+D:\Sandhi Software New\sandhi\CAG\LItems\obj\Debug\LItems.pdb
+F:\CAG\LItems\bin\Debug\LItems.dll.config
+F:\CAG\LItems\bin\Debug\LItems.dll
+F:\CAG\LItems\bin\Debug\LItems.pdb
+F:\CAG\LItems\bin\Debug\NovaNet.Utils.dll
+F:\CAG\LItems\bin\Debug\NovaNet.wfe.dll
+F:\CAG\LItems\bin\Debug\Interop.ClearImage.dll
+F:\CAG\LItems\bin\Debug\NovaNet.Utils.pdb
+F:\CAG\LItems\bin\Debug\NovaNet.Utils.dll.config
+F:\CAG\LItems\bin\Debug\NovaNet.wfe.pdb
+F:\CAG\LItems\bin\Debug\NovaNet.wfe.dll.config
+F:\CAG\LItems\obj\Debug\LItems.csprojAssemblyReference.cache
+F:\CAG\LItems\obj\Debug\LItems.csproj.CoreCompileInputs.cache
+F:\CAG\LItems\obj\Debug\LItems.csproj.CopyComplete
+F:\CAG\LItems\obj\Debug\LItems.dll
+F:\CAG\LItems\obj\Debug\LItems.pdb
+D:\GitRepository\CAG\CAG\LItems\bin\Debug\LItems.dll.config
+D:\GitRepository\CAG\CAG\LItems\bin\Debug\LItems.dll
+D:\GitRepository\CAG\CAG\LItems\bin\Debug\LItems.pdb
+D:\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.Utils.dll
+D:\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.wfe.dll
+D:\GitRepository\CAG\CAG\LItems\bin\Debug\Interop.ClearImage.dll
+D:\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.Utils.dll.config
+D:\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.wfe.dll.config
+D:\GitRepository\CAG\CAG\LItems\obj\Debug\LItems.csprojAssemblyReference.cache
+D:\GitRepository\CAG\CAG\LItems\obj\Debug\LItems.csproj.CoreCompileInputs.cache
+D:\GitRepository\CAG\CAG\LItems\obj\Debug\LItems.csproj.CopyComplete
+D:\GitRepository\CAG\CAG\LItems\obj\Debug\LItems.dll
+D:\GitRepository\CAG\CAG\LItems\obj\Debug\LItems.pdb
+D:\.NET\GitRepository\CAG\CAG\LItems\bin\Debug\LItems.dll.config
+D:\.NET\GitRepository\CAG\CAG\LItems\bin\Debug\LItems.dll
+D:\.NET\GitRepository\CAG\CAG\LItems\bin\Debug\LItems.pdb
+D:\.NET\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.Utils.dll
+D:\.NET\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.wfe.dll
+D:\.NET\GitRepository\CAG\CAG\LItems\bin\Debug\Interop.ClearImage.dll
+D:\.NET\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\.NET\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.Utils.dll.config
+D:\.NET\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\.NET\GitRepository\CAG\CAG\LItems\bin\Debug\NovaNet.wfe.dll.config
+D:\.NET\GitRepository\CAG\CAG\LItems\obj\Debug\LItems.csprojAssemblyReference.cache
+D:\.NET\GitRepository\CAG\CAG\LItems\obj\Debug\LItems.csproj.CoreCompileInputs.cache
+D:\.NET\GitRepository\CAG\CAG\LItems\obj\Debug\LItems.csproj.CopyComplete
+D:\.NET\GitRepository\CAG\CAG\LItems\obj\Debug\LItems.dll
+D:\.NET\GitRepository\CAG\CAG\LItems\obj\Debug\LItems.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\bin\Debug\LItems.dll.config
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\bin\Debug\LItems.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\bin\Debug\LItems.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\bin\Debug\NovaNet.Utils.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\bin\Debug\NovaNet.wfe.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\bin\Debug\Interop.ClearImage.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\bin\Debug\NovaNet.Utils.dll.config
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\bin\Debug\NovaNet.wfe.dll.config
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\obj\Debug\LItems.csproj.AssemblyReference.cache
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\obj\Debug\LItems.csproj.CoreCompileInputs.cache
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\obj\Debug\LItems.csproj.CopyComplete
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\obj\Debug\LItems.dll
+D:\Sandhi Software New\sandhi\CAG Updated\GIT\CAG\CAG\LItems\obj\Debug\LItems.pdb
+D:\GitRepo\CAG\LItems\bin\Debug\LItems.dll.config
+D:\GitRepo\CAG\LItems\bin\Debug\LItems.dll
+D:\GitRepo\CAG\LItems\bin\Debug\LItems.pdb
+D:\GitRepo\CAG\LItems\bin\Debug\NovaNet.Utils.dll
+D:\GitRepo\CAG\LItems\bin\Debug\NovaNet.wfe.dll
+D:\GitRepo\CAG\LItems\bin\Debug\Interop.ClearImage.dll
+D:\GitRepo\CAG\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\GitRepo\CAG\LItems\bin\Debug\NovaNet.Utils.dll.config
+D:\GitRepo\CAG\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\GitRepo\CAG\LItems\bin\Debug\NovaNet.wfe.dll.config
+D:\GitRepo\CAG\LItems\obj\Debug\LItems.csprojAssemblyReference.cache
+D:\GitRepo\CAG\LItems\obj\Debug\LItems.csproj.CoreCompileInputs.cache
+D:\GitRepo\CAG\LItems\obj\Debug\LItems.csproj.CopyComplete
+D:\GitRepo\CAG\LItems\obj\Debug\LItems.dll
+D:\GitRepo\CAG\LItems\obj\Debug\LItems.pdb

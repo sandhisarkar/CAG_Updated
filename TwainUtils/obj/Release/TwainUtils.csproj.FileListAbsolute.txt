@@ -1,0 +1,18 @@
+D:\subhajit\Projects\IGR\1.7.0\TwainUtils\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\IGR\1.7.0\TwainUtils\bin\Release\TwainUtils.dll.config
+D:\subhajit\Projects\IGR\1.7.0\TwainUtils\bin\Release\TwainUtils.dll
+D:\subhajit\Projects\IGR\1.7.0\TwainUtils\bin\Release\NovaNet.Utils.dll
+D:\subhajit\Projects\IGR\1.7.0\TwainUtils\bin\Release\Interop.ClearImage.dll
+D:\subhajit\Projects\IGR\1.7.0\TwainUtils\obj\Release\TwainUtils.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\TwainUtils\bin\Release\TwainUtils.dll.config
+G:\Copy of 1.7.0_modified on 19-06 new output\TwainUtils\bin\Release\TwainUtils.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\TwainUtils\bin\Release\NovaNet.Utils.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\TwainUtils\bin\Release\Interop.ClearImage.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\TwainUtils\obj\Release\ResolveAssemblyReference.cache
+G:\Copy of 1.7.0_modified on 19-06 new output\TwainUtils\obj\Release\TwainUtils.dll
+C:\Users\USER\Desktop\1.8.0 report\TwainUtils\bin\Release\TwainUtils.dll.config
+C:\Users\USER\Desktop\1.8.0 report\TwainUtils\bin\Release\TwainUtils.dll
+C:\Users\USER\Desktop\1.8.0 report\TwainUtils\bin\Release\NovaNet.Utils.dll
+C:\Users\USER\Desktop\1.8.0 report\TwainUtils\bin\Release\Interop.ClearImage.dll
+C:\Users\USER\Desktop\1.8.0 report\TwainUtils\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0 report\TwainUtils\obj\Release\TwainUtils.dll

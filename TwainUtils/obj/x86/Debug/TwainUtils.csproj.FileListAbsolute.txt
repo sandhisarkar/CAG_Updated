@@ -1,0 +1,33 @@
+D:\CHC\TwainUtils\bin\x86\Debug\TwainUtils.dll.config
+D:\CHC\TwainUtils\bin\x86\Debug\TwainUtils.dll
+D:\CHC\TwainUtils\bin\x86\Debug\TwainUtils.pdb
+D:\CHC\TwainUtils\bin\x86\Debug\NovaNet.Utils.dll
+D:\CHC\TwainUtils\bin\x86\Debug\Interop.ClearImage.dll
+D:\CHC\TwainUtils\bin\x86\Debug\NovaNet.Utils.pdb
+D:\CHC\TwainUtils\obj\x86\Debug\TwainUtils.csprojResolveAssemblyReference.cache
+D:\CHC\TwainUtils\obj\x86\Debug\TwainUtils.dll
+D:\CHC\TwainUtils\obj\x86\Debug\TwainUtils.pdb
+D:\CHC Backup Code\CHC\TwainUtils\bin\x86\Debug\TwainUtils.dll.config
+D:\CHC Backup Code\CHC\TwainUtils\bin\x86\Debug\TwainUtils.dll
+D:\CHC Backup Code\CHC\TwainUtils\bin\x86\Debug\TwainUtils.pdb
+D:\CHC Backup Code\CHC\TwainUtils\bin\x86\Debug\NovaNet.Utils.dll
+D:\CHC Backup Code\CHC\TwainUtils\bin\x86\Debug\Interop.ClearImage.dll
+D:\CHC Backup Code\CHC\TwainUtils\bin\x86\Debug\NovaNet.Utils.pdb
+D:\CHC Backup Code\CHC\TwainUtils\obj\x86\Debug\TwainUtils.dll
+D:\CHC Backup Code\CHC\TwainUtils\obj\x86\Debug\TwainUtils.pdb
+D:\CHC Backup Code\CHC\TwainUtils\bin\x86\Debug\NovaNet.Utils.dll.config
+D:\CHC Backup Code\CHC\TwainUtils\obj\x86\Debug\TwainUtils.csprojAssemblyReference.cache
+D:\CHC Backup Code\CHC\TwainUtils\obj\x86\Debug\TwainUtils.csproj.CoreCompileInputs.cache
+D:\CHC Backup Code\CHC\TwainUtils\obj\x86\Debug\TwainUtils.csproj.CopyComplete
+D:\CHC Backup Code - Copy\CHC\TwainUtils\bin\x86\Debug\TwainUtils.dll.config
+D:\CHC Backup Code - Copy\CHC\TwainUtils\bin\x86\Debug\TwainUtils.dll
+D:\CHC Backup Code - Copy\CHC\TwainUtils\bin\x86\Debug\TwainUtils.pdb
+D:\CHC Backup Code - Copy\CHC\TwainUtils\bin\x86\Debug\NovaNet.Utils.dll
+D:\CHC Backup Code - Copy\CHC\TwainUtils\bin\x86\Debug\Interop.ClearImage.dll
+D:\CHC Backup Code - Copy\CHC\TwainUtils\bin\x86\Debug\NovaNet.Utils.pdb
+D:\CHC Backup Code - Copy\CHC\TwainUtils\bin\x86\Debug\NovaNet.Utils.dll.config
+D:\CHC Backup Code - Copy\CHC\TwainUtils\obj\x86\Debug\TwainUtils.csprojAssemblyReference.cache
+D:\CHC Backup Code - Copy\CHC\TwainUtils\obj\x86\Debug\TwainUtils.csproj.CoreCompileInputs.cache
+D:\CHC Backup Code - Copy\CHC\TwainUtils\obj\x86\Debug\TwainUtils.csproj.CopyComplete
+D:\CHC Backup Code - Copy\CHC\TwainUtils\obj\x86\Debug\TwainUtils.dll
+D:\CHC Backup Code - Copy\CHC\TwainUtils\obj\x86\Debug\TwainUtils.pdb

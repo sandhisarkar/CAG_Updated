@@ -1,0 +1,30 @@
+D:\subhajit\Projects\IGR\1.7.0\wSelect\wSelect\wSelect\bin\Release\wSelect.dll.config
+D:\subhajit\Projects\IGR\1.7.0\wSelect\wSelect\wSelect\bin\Release\wSelect.dll
+D:\subhajit\Projects\IGR\1.7.0\wSelect\wSelect\wSelect\bin\Release\LItems.dll
+D:\subhajit\Projects\IGR\1.7.0\wSelect\wSelect\wSelect\bin\Release\NovaNet.Utils.dll
+D:\subhajit\Projects\IGR\1.7.0\wSelect\wSelect\wSelect\bin\Release\NovaNet.wfe.dll
+D:\subhajit\Projects\IGR\1.7.0\wSelect\wSelect\wSelect\bin\Release\Interop.ClearImage.dll
+D:\subhajit\Projects\IGR\1.7.0\wSelect\wSelect\wSelect\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\IGR\1.7.0\wSelect\wSelect\wSelect\obj\Release\wSelect.BoxDetails.resources
+D:\subhajit\Projects\IGR\1.7.0\wSelect\wSelect\wSelect\obj\Release\wSelect.csproj.GenerateResource.Cache
+D:\subhajit\Projects\IGR\1.7.0\wSelect\wSelect\wSelect\obj\Release\wSelect.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\wSelect\wSelect\wSelect\bin\Release\wSelect.dll.config
+G:\Copy of 1.7.0_modified on 19-06 new output\wSelect\wSelect\wSelect\bin\Release\wSelect.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\wSelect\wSelect\wSelect\bin\Release\LItems.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\wSelect\wSelect\wSelect\bin\Release\NovaNet.Utils.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\wSelect\wSelect\wSelect\bin\Release\NovaNet.wfe.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\wSelect\wSelect\wSelect\bin\Release\Interop.ClearImage.dll
+G:\Copy of 1.7.0_modified on 19-06 new output\wSelect\wSelect\wSelect\obj\Release\ResolveAssemblyReference.cache
+G:\Copy of 1.7.0_modified on 19-06 new output\wSelect\wSelect\wSelect\obj\Release\wSelect.BoxDetails.resources
+G:\Copy of 1.7.0_modified on 19-06 new output\wSelect\wSelect\wSelect\obj\Release\wSelect.csproj.GenerateResource.Cache
+G:\Copy of 1.7.0_modified on 19-06 new output\wSelect\wSelect\wSelect\obj\Release\wSelect.dll
+C:\Users\USER\Desktop\1.8.0 report\wSelect\wSelect\wSelect\bin\Release\wSelect.dll.config
+C:\Users\USER\Desktop\1.8.0 report\wSelect\wSelect\wSelect\bin\Release\wSelect.dll
+C:\Users\USER\Desktop\1.8.0 report\wSelect\wSelect\wSelect\bin\Release\LItems.dll
+C:\Users\USER\Desktop\1.8.0 report\wSelect\wSelect\wSelect\bin\Release\NovaNet.Utils.dll
+C:\Users\USER\Desktop\1.8.0 report\wSelect\wSelect\wSelect\bin\Release\NovaNet.wfe.dll
+C:\Users\USER\Desktop\1.8.0 report\wSelect\wSelect\wSelect\bin\Release\Interop.ClearImage.dll
+C:\Users\USER\Desktop\1.8.0 report\wSelect\wSelect\wSelect\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\1.8.0 report\wSelect\wSelect\wSelect\obj\Release\wSelect.BoxDetails.resources
+C:\Users\USER\Desktop\1.8.0 report\wSelect\wSelect\wSelect\obj\Release\wSelect.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\1.8.0 report\wSelect\wSelect\wSelect\obj\Release\wSelect.dll
